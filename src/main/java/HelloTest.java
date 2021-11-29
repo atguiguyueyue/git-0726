@@ -4,6 +4,7 @@ public class HelloTest {
         System.out.println("hello world");
         System.out.println("master");
         System.out.println("hot-fix2");
+        System.out.println("push test");
 
     }
 }
